@@ -12,9 +12,33 @@
 ## 🚀 Project Overview
 The Gold Price Prediction project is an exploratory analysis and machine learning project that aims to forecast the future prices of gold based on historical data and relevant market indicators. The repository contains Python code, datasets, and Jupyter Notebooks showcasing the step-by-step process of data preprocessing, feature engineering, model selection, and evaluation.
 
-## 📊 Algorithms Used
-- Random Forest
-- Desicion Tree
-- ElasticNet
-- XGBoost
+## 🎯 Project Goals
+
+
+**📦 Accurate Prediction of Gold Prices**  
+   - Use historical data and market indicators to forecast gold prices reliably.
+
+**📊 Compare Machine Learning Models**  
+   - Evaluate multiple models.
+   - Identify the model with the best performance based on metrics like R² score.
+
+**🔍 Feature Analysis and Importance**  
+   - Understand which factors most influence gold prices.
+
+ ## 🛠️ Tech Stack
+- 🐍 Python 3.8+
+- 📦 XGBoost, RandomForest, Decision Tree and ElasticNet for model training.
+- 📊 Pandas, NumPy for data manipulation
+- 📈 Matplotlib, Seaborn for EDA and visualization
+- ⚙️ Scikit-learn for preprocessing, metrics, and pipelines
+- 💻 Jupyter Notebook for development and reporting
+
+## 🥇 Key Findings
+- Among all the models, the Random Forest achieved the highest performance.✅
+
+## 🧑‍💻 Author
+**Mortadha Ferchichi**
+- 📧 ferchichii.mortadha@gmail.com
+- 🌐 https://github.com/morta123456
+  
 
